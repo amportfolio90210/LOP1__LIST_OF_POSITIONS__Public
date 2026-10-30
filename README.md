@@ -4,6 +4,22 @@
 
 [+]
 
+### HIGHLIGHTS AT A GLANCE
+
+- **20+ years experience** across tech, media, education, and non-profits. With deep hands-on engineering experience—spanning world-record performance teams at Microsoft, 15+ U.S./EU patents, and SQL standards leadership—I solve complex technical bottlenecks that standard teams can't. I bridge the gap between deep-tech research (VLDB, ICDE) and viable commercial software, delivering enterprise platforms, consumer applications, and data systems engineered for scale.
+- **Built 10+ software products, components & projects** including SQL/XML Functions component (Oracle), XPath Rewrite component (Oracle), XQuery Parser (Oracle), Fulltext performance improvement projects (Microsoft) and Fulmo Games for Wellness (Fulmo Technologies).
+- **Author of 10+ poetry books** and 2 original political/economic theories.
+- **15+ U.S./EU patents**; former roles at Microsoft, Oracle, and Digital Green.
+- **Collaborated with India's royal families**; non-profit concept presented to Bill Gates.
+- **Member of the ANSI/ISO SQL Language Design Committee**.
+- **Member of World Record Performance Team** at Microsoft in the SQL Server Group.
+- **Presenting author at VLDB and ICDE**, leading global computer science research conferences; author of papers accepted at leading conferences and computer science journals, including Journal of Parallel and Distributed Computing (JPDC), International Conference on Data Engineering (ICDE), Very Large Data Bases conference & journal (VLDB), and the Advanced Computing conference (ADCOMP).
+
+---
+
+[+]
+
+
 Below is a list of previous positions held.
 
 ## PROFESSIONAL EXPERIENCE
