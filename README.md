@@ -6,7 +6,7 @@
 
 ### HIGHLIGHTS AT A GLANCE
 
-- **20+ years experience** across tech, media, education, and non-profits. With deep hands-on engineering experience—spanning world-record performance teams at Microsoft, 15+ U.S./EU patents, and SQL standards leadership—I enjoy solving complex technical bottlenecks. I bridge the gap between deep-tech research (VLDB, ICDE) and viable commercial software, delivering enterprise platforms, consumer applications, and data systems engineered for scale.
+- **20+ years experience** across tech, media, education, and non-profits. With deep hands-on engineering experience—spanning world-record performance teams at Microsoft, 15+ U.S./EU patents, and SQL standards leadership—I enjoy solving complex technical and business problems in both technical and functional roles. I bridge the gap between deep-tech research (VLDB, ICDE) and viable commercial software, delivering enterprise platforms, consumer applications, and data systems engineered for scale.
 - **Built 10+ software products, components & projects** including SQL/XML Functions component (Oracle), XPath Rewrite component (Oracle), XQuery Parser (Oracle), Fulltext performance improvement projects (Microsoft) and Fulmo Games for Wellness (Fulmo Technologies).
 - **Author of 10+ poetry books** and 2 original political/economic theories.
 - **15+ U.S./EU patents**; former roles at Microsoft, Oracle, and Digital Green.
