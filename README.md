@@ -33,9 +33,8 @@ Below is a list of previous positions held.
 
 ## PROFESSIONAL EXPERIENCE
 
-- Fractional CFO, Stealth Startup - current work is confidential (Jun 2026 - Present)
-- Visiting Faculty, PES University (Oct 2025 - Present)
-- Chief Technology Officer, Fulmo Technologies (Mar 2024 - Jun 2026)
+- Chief Technology Officer, Fulmo Technologies (Mar 2024 - Present)
+- Visiting Faculty, PES University (Oct 2025 - Mar 2026)
 - Patent Examiner, US Patent and Trademark Office (Sep 2023 - Mar 2024)
 - Senior Director, Qwykr Technologies (Mar 2022 - Sep 2023)
 - Cofounder, Namaste Bharat Ltd. - alongside Qwykr Technologies role (Sep 2021 - Mar 2022)
