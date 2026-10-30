@@ -18,6 +18,7 @@
 ---
 
 [+]
+I have worked in both technical and functional roles.
 
 As a Fractional CTO and Software Architect, I've led development and architecture for secure, scalable web systems including virtually single-handedly building Fulmo, a digital hub for mental wellness. My technical work is backed by deep experience at Microsoft, Oracle, and pioneering nonprofits like Digital Green.
 
