@@ -19,6 +19,13 @@
 
 [+]
 
+As a Fractional CTO and Software Architect, I've led development and architecture for secure, scalable web systems including virtually single-handedly building Fulmo, a digital hub for mental wellness. My technical work is backed by deep experience at Microsoft, Oracle, and pioneering nonprofits like Digital Green.
+
+My parallel life as an author and theorist includes publishing over 10 volumes of poetry, contributing to a classic Strategic Management textbook, and crafting new theories in Political Science, Philosophy, and Economics collectively called La Gravaj Teoriaj Projektoj. These ideas are built to challenge conventional wisdom and offer alternative theories. I've also written a mathematics column, and developed a new constructed language for developmental goals.   
+
+With my work, I actively contribute to the conversation on nutrition and well-being, philosophies of resilience and happiness, and cultural synthesis through art, poetry, and design.
+
+[+]
 
 Below is a list of previous positions held.
 
